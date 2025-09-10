@@ -67,6 +67,21 @@ body {
     line-height: 1.6;
 }
 
+.slide .first-ct {
+    margin: 0px 25.6px 25.6px 25.6px;
+    color: white;
+    text-align: center;
+    font-size: 1.6rem;
+    line-height: 1.6;
+}
+.slide .fnal-ct {
+    margin: 25.6px 25.6px 0px 25.6px;
+    color: white;
+    text-align: center;
+    font-size: 1.6rem;
+    line-height: 1.6;
+}
+
 .buttons {
     display: flex;
     justify-content: space-between;
